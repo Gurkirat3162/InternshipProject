@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+.style
+{
+	background-color:#9C0;
+	
+	
+	
+}
+.style1
+{
+	width:200px;
+	float:right;
+	height: 25px;
+	
+	
+	
+}
+.contain
+{
+	float:left;
+	width:100px;
+	margin-left:50px;
+	margin-top:0px;
+	height: 25px;
+}
+.contain1
+{
+	float:left;
+	width:100px;
+	margin-left:120px;
+	margin-top:0px;
+}
